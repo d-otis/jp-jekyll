@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<section class="col-sm-9 single">
+  <article class="card border-0 bg-transparent">
+    <div class="video-container">
+      <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/{{ page.youtube_id }}" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+      >
+      </iframe>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">{{ page.title }}</h5>
+      <p class=""> {{ content }} </p>
+      <p class="text-muted text-right mt-4 mb-2"><i class="far fa-folder"></i>
+        / /
+        {% for category in page.categories %}
+        <!-- TODO put commas in here && make the links work -->
+          <a href="">{{ category }}</a>
+        {% endfor %}
+      </p>
+      <!-- <?php previous_post_link('%link', 'prev'); ?>
+      <?php next_post_link('%link', 'next'); ?> -->
+    </div><!-- END OF .CARD-BODY -->
+  </article>
+</section>
