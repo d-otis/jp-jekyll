@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Afrin"
-has_thumbnail: true
+has_youtube_thumbnail: true
 categories: work video tv commercial
 youtube_id: "zjE9v8ZA_o0"
 ---
