@@ -3,10 +3,15 @@ layout: default
 title: "dude"
 ---
 
-<ul>
+<div>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+  <a href="{{ post.url }}">
+    <article class="card bg-dark text-white mb-5 post">
+      <img src="https://img.youtube.com/vi/{{ post.youtube_id }}/maxresdefault.jpg" class="card-img" alt="{{ post.title }}">
+      <div class="card-img-overlay">
+      
+      </div>
+    </article>
+  </a>
   {% endfor %}
-</ul>
+</div>
