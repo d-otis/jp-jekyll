@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gremlins Mega Madness Front Matter"
+title: "Gremlins Mega Madness"
 # date: 2022-03-06 11:13:14 -0500
 categories: fun video
 youtube_id: Hf3WAdNHFRU
