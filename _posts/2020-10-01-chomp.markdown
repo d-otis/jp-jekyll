@@ -1,0 +1,12 @@
+---
+layout: post
+status: publish
+published: true
+title: Chomp
+categories:
+- social
+- fun
+youtube_id: 99RqxZg1AFk
+has_youtube_thumbnail: true
+---
+
