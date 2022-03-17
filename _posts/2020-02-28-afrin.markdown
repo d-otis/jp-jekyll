@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Afrin"
+status: publish
+published: true
+title: AFRIN
+youtube_id: zjE9v8ZA_o0
 has_youtube_thumbnail: true
-categories: work video tv commercial
-youtube_id: "zjE9v8ZA_o0"
 ---
-
-“Carrier Pigeon”
+"Carrier Pigeon"
 
 Director: Rob Boocheck
 
 Production: 59 Films
 
 2020
+
