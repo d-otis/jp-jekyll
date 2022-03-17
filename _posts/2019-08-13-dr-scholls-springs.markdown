@@ -4,7 +4,8 @@ status: publish
 published: true
 title: DR. SCHOLL'S
 youtube_id: 76rsg3s-15M
-has_youtube_thumbnail: true
+has_youtube_thumbnail: false
+custom_thumbnail: scholls-spring
 categories:
 - broadcast
 - video
