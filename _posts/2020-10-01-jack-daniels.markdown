@@ -14,6 +14,9 @@ has_youtube_thumbnail: true
 # is this video pulled down?
 ---
 "First Timers"
+
 Director: Ian Pon Jewell
+
 Production: RESET
+
 2020
