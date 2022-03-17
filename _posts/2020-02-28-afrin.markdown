@@ -5,6 +5,9 @@ published: true
 title: AFRIN
 youtube_id: zjE9v8ZA_o0
 has_youtube_thumbnail: true
+categories: 
+- tv commercial
+- work
 ---
 "Carrier Pigeon"
 
