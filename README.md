@@ -12,3 +12,4 @@ Ported from WordPress
 - [ ] defaults for layouts dependant on directory they're in
 - [ ] contact me solution
 - [ ] make front page show work category only
+- [ ] deal with Soundcloud post
