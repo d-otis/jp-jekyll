@@ -21,11 +21,9 @@ layout: default
       <p class=""> {{ content }} </p>
       <p class="text-muted text-right mt-4 mb-2"><i class="far fa-folder"></i>
         / /
-        {% for category in page.categories %}
-        <!-- TODO put commas in here && make the links work -->
-          <a href="">{{ category }}</a>
-        {% endfor %}
+        {{ page.categories | category_links }}
       </p>
+
       <!-- <?php previous_post_link('%link', 'prev'); ?>
       <?php next_post_link('%link', 'next'); ?> -->
     </div><!-- END OF .CARD-BODY -->
