@@ -4,12 +4,15 @@ Ported from WordPress
 
 ## Todo
 
-- [ ] convert all existing posts
+- [x] convert all existing posts
 - [ ] what to do with videos made private?
-- [ ] commas in tags
-- [ ] prev/next pagination
+- [x] commas in categories
+- [x] prev/next pagination
 - [ ] categories pages for each category
 - [ ] defaults for layouts dependant on directory they're in
 - [ ] contact me solution
-- [ ] make front page show work category only
-- [ ] deal with Soundcloud post
+- [x] make front page show work category only
+- [x] deal with Soundcloud post
+- [ ] jekyll sitemap plugin
+- [ ] implement email obfuscator plugin
+- [ ] jekyll seo plugin
