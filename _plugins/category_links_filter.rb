@@ -1,5 +1,7 @@
 module Jekyll
   module AssetFilter
+    include Jekyll::Utils
+
     def category_links(array)
       case array.length
       when 0
@@ -14,8 +16,8 @@ module Jekyll
     end
 
     def generate_link(category)
-      # need to slugify url/category string here
-      "<a href='/categories/#{category}'>#{category.to_s}</a>"
+      slug = Utils.slugify(category, :mode => nil)
+      "<a href='/categories/#{slug}'>#{category.to_s}</a>"
     end
 
     def generate_links(categories)
