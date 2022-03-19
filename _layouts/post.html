@@ -4,7 +4,7 @@ layout: default
 
 <section class="col-sm-9 single">
   <article class="card border-0 bg-transparent">
-    {% include youtube_embed.html %}
+    {% include media_embed.html %}
     <div class="card-body">
       <h5 class="card-title">{{ page.title }}</h5>
       <p class=""> {{ content }} </p>
@@ -12,7 +12,6 @@ layout: default
         / /
         {{ page.categories | category_links }}
       </p>
-
       <!-- <?php previous_post_link('%link', 'prev'); ?>
       <?php next_post_link('%link', 'next'); ?> -->
     </div><!-- END OF .CARD-BODY -->
