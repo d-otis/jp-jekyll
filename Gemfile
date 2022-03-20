@@ -15,7 +15,6 @@ gem "jekyll", "~> 4.2.2"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-import'
   gem 'jekyll-sitemap'
   gem 'jekyll-email-protect'
   gem 'jekyll-archives'
