@@ -33,7 +33,8 @@ permalink: /:title
 jekyll-archives:
   enabled:
     - categories
-  layout: default
+  layouts: 
+    category: category
   permalinks:
     category: '/categories/:name/'
 
