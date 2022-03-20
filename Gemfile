@@ -15,7 +15,9 @@ gem "jekyll", "~> 4.2.2"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-import'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-email-protect'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -33,5 +35,3 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Additional Gems
-gem 'jekyll-import'
-gem 'jekyll-sitemap'
