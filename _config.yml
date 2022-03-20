@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   He joined BBDO in 2015 as a Production Coordinator. 
   Since joining BBDO he’s produced campaigns for 
   Jack Daniels, Alka Seltzer, HP, Lenscrafters, Ziploc and Dr Scholl’s. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/d-otis/jp-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jp-jekyll" # the subpath of your site, e.g. /blog
+url: "https://d-otis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 permalink: /:title
