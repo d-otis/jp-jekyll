@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
-<ul class="posts">
+<section class="col-sm-9 blogroll content">
   {% for post in page.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
+  {% include post_list_item.html %}
   {% endfor %}
-</ul>
+</section>
