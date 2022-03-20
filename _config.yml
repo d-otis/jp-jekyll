@@ -30,6 +30,13 @@ twitter_username: jekyllrb
 github_username: jekyll
 permalink: /:title
 
+jekyll-archives:
+  enabled:
+    - categories
+  layout: default
+  permalinks:
+    category: '/categories/:name/'
+
 # Build settings
 # theme: minima
 plugins:
