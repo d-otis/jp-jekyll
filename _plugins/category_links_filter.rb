@@ -17,7 +17,7 @@ module Jekyll
 
     def generate_link(category)
       slug = Utils.slugify(category, :mode => nil)
-      "<a href='/categories/#{slug}'>#{category.to_s}</a>"
+      "<a href='./categories/#{slug}'>#{category.to_s}</a>"
     end
 
     def generate_links(categories)
