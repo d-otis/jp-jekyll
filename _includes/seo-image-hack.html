@@ -5,8 +5,10 @@
   <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" />
   <meta property="twitter:image" content="{{ yt_url }}" />
   <meta property="og:image" content="{{ yt_url }}" />
-  <!-- has YT thumb -->
+  <link rel="image_src" href="{{ yt_url }}">
 {% else %}
-<!-- in the else -->
   <meta name="twitter:card" content="summary" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/bio.jpg" />
+  <meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/images/bio.jpg" />
+  <link rel="image_src" href="{{ site.url }}{{ site.baseurl }}/images/bio.jpg">
 {% endif %}
