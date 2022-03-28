@@ -1,0 +1,259 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Open+Sans:300,300i,400|Oswald:300");
+/*================================================*/
+/*===================GENERAL======================*/
+/*================================================*/
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+div {
+  /* border: 1px solid pink; */
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}
+.footer {
+  flex-shrink: 0;
+}
+
+body {
+  background: #222222;
+  color: #fff;
+}
+
+footer,
+footer a {
+  color: #6c757d;
+  -webkit-transition: 450ms;
+  -o-transition: 450ms;
+  transition: 450ms;
+  font-family: "Oswald";
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #ef30fe;
+  -webkit-transition: 450ms;
+  -o-transition: 450ms;
+  transition: 450ms;
+}
+
+/*================================================*/
+/*===================NAVIGATION===================*/
+/*================================================*/
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.85);
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 0.45em;
+  text-transform: lowercase;
+}
+
+.navbar-brand {
+  display: none;
+  font-family: proxima-nova, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.39em;
+  text-transform: uppercase;
+}
+
+.navbar-dark .navbar-brand {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.description {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.navbar-toggler {
+  font-size: 1rem;
+}
+
+/*================================================*/
+/*===================BLOG ROLL====================*/
+/*================================================*/
+.card-title {
+  margin-top: 47%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.85);
+  /* text-transform: lowercase; */
+}
+
+.card-text {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+div.card-img-overlay {
+  background: black;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.8) 0%,
+    rgba(255, 255, 255, 0) 42%
+  );
+}
+
+.card {
+  -webkit-transition: 750ms;
+  -o-transition: 750ms;
+  transition: 750ms;
+}
+
+.blogroll .card {
+  -webkit-box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+}
+
+.blogroll .card:hover {
+  -webkit-transition: 750ms;
+  -o-transition: 750ms;
+  transition: 750ms;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+}
+
+.card-link {
+  -webkit-transition: 450ms;
+  -o-transition: 450ms;
+  transition: 450ms;
+  color: rgba(255, 255, 255, 0.85);
+  font-family: "Open Sans";
+}
+
+.card-link:hover {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/*================================================*/
+/*=================SINGLE POST====================*/
+/*================================================*/
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  -webkit-box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.single .card-title,
+.page .card-title {
+  margin-top: 0;
+}
+
+div.card-body > p {
+  font-family: Oswald;
+  font-weight: 300;
+  text-align: left !important;
+  margin-bottom: 0;
+}
+
+p.text-muted.text-right a {
+  text-decoration: none;
+  color: #6c757d !important;
+}
+
+p.text-muted.text-right a:hover {
+  color: #b6bbbf !important;
+}
+
+/*================================================*/
+/*=======================BIO======================*/
+/*================================================*/
+
+.page .card {
+  background-color: rgba(151, 36, 36, 0.33) !important;
+  -webkit-box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.25);
+}
+
+.page .card-text {
+  text-align: left !important;
+}
+
+label {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/*================================================*/
+/*======================FORM======================*/
+/*================================================*/
+
+/*================================================*/
+/*===============MEDIA QUERIES====================*/
+/*================================================*/
+@media screen and (max-width: 991px) {
+  .card-title {
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  h5.card-title {
+    font-size: 1.5em;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  #logo {
+    display: none;
+  }
+  .navbar-brand {
+    display: inline-block;
+  }
+  h5.card-title {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 574px) {
+  h5.card-title {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  h5.card-title {
+    font-size: 1rem;
+  }
+}
