@@ -4,6 +4,7 @@
   {%- endcapture %}
   <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" />
   <meta property="twitter:image" content="{{ yt_url }}" />
+  <meta property="og:image" content="{{ yt_url }}" />
   <!-- has YT thumb -->
 {% else %}
 <!-- in the else -->
