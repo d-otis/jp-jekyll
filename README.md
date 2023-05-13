@@ -19,3 +19,4 @@ Ported from WordPress
 - [ ] make menu a _data yaml file
 - [x] why is title in title-tab so dang long?
 - [ ] figure out deploying to GH
+- [ ] style 404 page
