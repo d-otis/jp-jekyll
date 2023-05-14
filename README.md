@@ -18,5 +18,5 @@ Ported from WordPress
 - [x] jekyll seo plugin
 - [ ] make menu a _data yaml file
 - [x] why is title in title-tab so dang long?
-- [ ] figure out deploying to GH
+- [x] figure out deploying to GH
 - [ ] style 404 page
