@@ -32,3 +32,13 @@
     </div>
   </nav>
 </div>
+
+<div>
+  <ul>
+    {{% for link in site.data.menu %}}
+      <li>
+        <a href="{{ link.href }}">{{ link.text }}</a>
+      </li>
+    {{% endfor %}}
+  </ul>
+</div>
