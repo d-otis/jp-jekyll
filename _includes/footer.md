@@ -3,7 +3,7 @@
       <a href="#" id="back-to-top" title="Back to top"><i class="fas fa-chevron-circle-up fa-4x"></i></a>
     </footer>
 
-    {% include javascript-footer.html %}
+    {% include javascript-footer.md %}
     
   </body>
 </html>
