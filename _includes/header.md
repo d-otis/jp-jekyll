@@ -9,5 +9,6 @@
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/style.css">
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/back-to-top.css">
     <link rel="stylesheet" href="https://use.typekit.net/ygr6zcl.css">
+    <!-- this is the ENV var {{ site.env.GITHUB_SHA }} -->
   </head>
   <body>
