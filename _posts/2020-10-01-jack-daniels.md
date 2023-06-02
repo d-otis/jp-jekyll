@@ -1,8 +1,7 @@
 ---
 layout: post
 status: publish
-published: false
-# because the video is pulled down
+published: true
 title: Jack Daniel's
 categories:
 - social
@@ -10,9 +9,8 @@ categories:
 - video
 - work
 - tv commercial
-youtube_id: Z1I3pLHhxWo
+youtube_id: jp4S8DT_JBA
 has_youtube_thumbnail: true
-# is this video pulled down?
 ---
 "First Timers"
 
