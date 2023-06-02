@@ -196,6 +196,22 @@ p.text-muted.text-right a:hover {
   color: #b6bbbf !important;
 }
 
+section.single a {
+  text-decoration: none;
+  color: #6c757d;
+  -webkit-transition: 450ms;
+  -o-transition: 450ms;
+  transition: 450ms;
+}
+
+section.single a:hover {
+  text-decoration: none;
+  color: #ef30fe;
+  -webkit-transition: 450ms;
+  -o-transition: 450ms;
+  transition: 450ms;
+}
+
 /*================================================*/
 /*=======================BIO======================*/
 /*================================================*/
