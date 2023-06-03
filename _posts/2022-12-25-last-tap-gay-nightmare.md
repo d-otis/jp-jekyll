@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: "The Last Tap: A Gay Nightmare"
 categories:

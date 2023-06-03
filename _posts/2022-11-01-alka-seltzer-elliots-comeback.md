@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: Alka Seltzer Elliot's Comeback
 categories:

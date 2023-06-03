@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: DR. SCHOLL'S
 youtube_id: 76rsg3s-15M

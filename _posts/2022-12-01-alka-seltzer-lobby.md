@@ -1,7 +1,7 @@
 ---
 
 published: true
-status: publish
+
 title: Alka Seltzer Lobby
 categories:
 - social

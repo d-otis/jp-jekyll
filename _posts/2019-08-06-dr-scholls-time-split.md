@@ -1,5 +1,5 @@
 ---
-status: publish
+
 published: true
 title: DR. SCHOLL'S
 youtube_id: btstCjtzOoY

@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: Gentleman Jack
 categories:

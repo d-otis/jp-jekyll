@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: MEGA MONSTER BATTLE - 1997
 youtube_id: sBjCLNz5TKM

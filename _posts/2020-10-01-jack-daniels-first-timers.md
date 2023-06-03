@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: Jack Daniel's First Timers
 categories:

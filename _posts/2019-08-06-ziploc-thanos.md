@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: ZIPLOC
 youtube_id: eONGeiPY7pE

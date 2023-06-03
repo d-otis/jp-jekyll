@@ -3,7 +3,6 @@
 ## Instructions
 1. Create new `.md` file in `_posts` folder as `YYYY-MM-DD-title.md`
 2. Set YAML front matter
-    - `status: publish`
     - `published: true`
     - `title: <title>`
     - `youtube_id: <video-id-from-yt-url>`

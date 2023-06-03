@@ -2,7 +2,7 @@
 youtube_id: lvz07i2EeRI
 
 title: AstePro Cake Baker
-status: publish
+
 published: true
 categories:
 - social

@@ -1,5 +1,5 @@
 ---
-status: publish
+
 published: true
 title: Starbucks Flamingo
 categories:

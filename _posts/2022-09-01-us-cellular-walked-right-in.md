@@ -1,6 +1,6 @@
 ---
 
-status: publish
+
 published: true
 title: US Cellular Walked Right In
 youtube_id: IBBmkCvoISk
