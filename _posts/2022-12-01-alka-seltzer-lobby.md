@@ -1,6 +1,6 @@
 ---
 
-published: true
+
 
 title: Alka Seltzer Lobby
 categories:

@@ -1,7 +1,7 @@
 ---
 
 
-published: true
+
 title: Gentleman Jack
 categories:
   - broadcast

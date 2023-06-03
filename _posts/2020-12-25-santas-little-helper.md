@@ -1,7 +1,7 @@
 ---
 
 
-published: true
+
 title: Santa's Little Helper
 categories:
   - fun

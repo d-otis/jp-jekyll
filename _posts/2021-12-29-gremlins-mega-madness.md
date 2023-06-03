@@ -1,7 +1,7 @@
 ---
 
 
-published: true
+
 title: Gremlins Mega Madness
 categories:
 - fun

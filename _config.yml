@@ -40,6 +40,7 @@ defaults:
     values: 
       layout: post
       has_youtube_thumbnail: true
+      published: true
   - scope:
       path: ""
       type: pages
