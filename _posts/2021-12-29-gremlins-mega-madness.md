@@ -1,12 +1,12 @@
 ---
-layout: post
+
 status: publish
 published: true
 title: Gremlins Mega Madness
 categories:
 - fun
 - video
-layout: post
+
 title: "Gremlins Mega Madness"
 # date: 2022-03-06 11:13:14 -0500
 categories: fun video

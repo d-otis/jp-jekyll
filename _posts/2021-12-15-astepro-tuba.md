@@ -1,6 +1,5 @@
 ---
 title: AstePro Tuba
-layout: post
 published: true
 categories:
 - tv commercial

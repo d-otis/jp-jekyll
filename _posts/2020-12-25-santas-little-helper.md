@@ -1,5 +1,5 @@
 ---
-layout: post
+
 status: publish
 published: true
 title: Santa's Little Helper
