@@ -1,8 +1,6 @@
-# John Paul Ward
+# John Paul Ward | Producer Reel
 
-Ported from WordPress
 
 ## Todo
 
 - [ ] YAML linter in a pre-commit hook?
-- [ ] page layout default
