@@ -1,5 +1,5 @@
 ---
-layout: post
+
 status: publish
 published: true
 title: MEGA MONSTER BATTLE - 1997

@@ -33,6 +33,15 @@ url: "https://www.johnpaulward.com" # the base hostname & protocol for your site
 instagram_username: thisisnotjohnpaul
 permalink: /:title
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values: 
+      layout: post
+      
+
 jekyll-archives:
   enabled:
     - categories

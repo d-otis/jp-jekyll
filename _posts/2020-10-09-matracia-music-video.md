@@ -1,5 +1,5 @@
 ---
-layout: post
+
 status: publish
 published: true
 title: "Matracia &mdash; 'In My Head' (music video)"
