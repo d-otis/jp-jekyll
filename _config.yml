@@ -34,12 +34,16 @@ instagram_username: thisisnotjohnpaul
 permalink: /:title
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: posts
     values: 
       layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
       
 
 jekyll-archives:
