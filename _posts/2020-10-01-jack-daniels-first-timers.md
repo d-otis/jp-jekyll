@@ -2,7 +2,7 @@
 
 status: publish
 published: true
-title: Jack Daniel's
+title: Jack Daniel's First Timers
 categories:
 - social
 - broadcast
@@ -12,7 +12,7 @@ categories:
 youtube_id: jp4S8DT_JBA
 has_youtube_thumbnail: true
 ---
-"First Timers"
+"Jack Daniel's First Timers"
 
 Director: Ian Pon Jewell
 
