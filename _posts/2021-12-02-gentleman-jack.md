@@ -1,14 +1,12 @@
 ---
 
 
-
 title: Gentleman Jack
 categories:
   - broadcast
   - work
   - tv commercial
 youtube_id: _5Bgxy9dCZw
-
 ---
 
 &ldquo;Milestones&rdquo;

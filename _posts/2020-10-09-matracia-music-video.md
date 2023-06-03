@@ -1,13 +1,11 @@
 ---
 
 
-
 title: "Matracia &mdash; 'In My Head' (music video)"
 categories:
   - fun
   - video
 youtube_id: 3tqkYQnbiSs
-
 ---
 
 On Friday, October 9, 2020, queer indie-pop musician Matracia will release a music video for 'In My Head' - a song exploring sex and sobriety that is the second song and video off his debut EP, Summer Cruel, released in 2019.  
