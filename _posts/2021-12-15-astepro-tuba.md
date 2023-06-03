@@ -1,12 +1,11 @@
 ---
 title: AstePro Tuba
-
 categories:
-- tv commercial
-- work
-- video
-- broadcast
-- social
+  - tv commercial
+  - work
+  - video
+  - broadcast
+  - social
 youtube_id: uSqLWKODlIA
 has_youtube_thumbnail: true
 ---

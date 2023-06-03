@@ -1,13 +1,8 @@
 ---
-
-
-
 title: Santa's Little Helper
 categories:
   - fun
   - video
-tags: []
-comments: []
 youtube_id: aO2rHebnCwM
 has_youtube_thumbnail: yes
 ---

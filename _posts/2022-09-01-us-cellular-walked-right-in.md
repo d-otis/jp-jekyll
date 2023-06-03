@@ -1,16 +1,12 @@
 ---
-
-
-
 title: US Cellular Walked Right In
 youtube_id: IBBmkCvoISk
-
 categories:
-- social
-- video
-- work
-- tv commercial
-- broadcast
+  - social
+  - video
+  - work
+  - tv commercial
+  - broadcast
 ---
 "US Cellular Walked Right In"
 

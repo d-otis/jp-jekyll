@@ -1,16 +1,12 @@
 ---
-
-
-
 title: US Cellular Buying in Bulk
 youtube_id: GSmTRB_43W4
-
 categories:
-- social
-- video
-- work
-- tv commercial
-- broadcast
+  - social
+  - video
+  - work
+  - tv commercial
+  - broadcast
 ---
 "US Cellular Buying in Bulk"
 

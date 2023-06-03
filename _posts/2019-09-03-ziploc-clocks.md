@@ -1,15 +1,11 @@
 ---
-
-
-
 title: ZIPLOC
 youtube_id: 3KteNeCH1no
-
 categories:
-- broadcast
-- video
-- work
-- tv commercial
+  - broadcast
+  - video
+  - work
+  - tv commercial
 ---
 "Clocks"
 

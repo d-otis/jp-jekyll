@@ -1,6 +1,4 @@
 ---
-
-
 title: Gentleman Jack
 categories:
   - broadcast

@@ -1,15 +1,12 @@
 ---
 youtube_id: lvz07i2EeRI
-
 title: AstePro Cake Baker
-
-
 categories:
-- social
-- video
-- work
-- tv commercial
-- broadcast
+  - social
+  - video
+  - work
+  - tv commercial
+  - broadcast
 ---
 "AstePro Cake Baker"
 

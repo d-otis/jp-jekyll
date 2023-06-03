@@ -1,15 +1,11 @@
 ---
-
-
-
 title: ZIPLOC
 youtube_id: eONGeiPY7pE
-
 categories:
-- broadcast
-- video
-- work
-- tv commercial
+  - broadcast
+  - video
+  - work
+  - tv commercial
 ---
 "Thanos"
 

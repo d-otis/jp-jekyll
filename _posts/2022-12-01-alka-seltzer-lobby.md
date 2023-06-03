@@ -1,13 +1,11 @@
 ---
-
-
 title: Alka Seltzer Lobby
 categories:
-- social
-- video
-- work
-- tv commercial
-- broadcast
+  - social
+  - video
+  - work
+  - tv commercial
+  - broadcast
 youtube_id: L2k4uBGuMDQ
 ---
 

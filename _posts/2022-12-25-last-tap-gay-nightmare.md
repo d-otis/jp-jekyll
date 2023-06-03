@@ -1,10 +1,8 @@
 ---
-
-
 title: "The Last Tap: A Gay Nightmare"
 categories:
-- fun
-- video
+  - fun
+  - video
 youtube_id: W1Vka1x4u8s
 ---
 

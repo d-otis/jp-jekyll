@@ -1,14 +1,11 @@
 ---
-
-
 title: ALKA SELTZER PM
 youtube_id: 3OC0llqpQ6Q
-
 categories:
-- broadcast
-- video
-- work
-- tv commercial
+  - broadcast
+  - video
+  - work
+  - tv commercial
 ---
 "Leftovers"
 

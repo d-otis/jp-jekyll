@@ -1,6 +1,4 @@
 ---
-
-
 title: "Matracia &mdash; 'In My Head' (music video)"
 categories:
   - fun
