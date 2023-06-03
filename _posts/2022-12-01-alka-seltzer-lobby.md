@@ -1,7 +1,6 @@
 ---
 
 
-
 title: Alka Seltzer Lobby
 categories:
 - social
@@ -10,7 +9,6 @@ categories:
 - tv commercial
 - broadcast
 youtube_id: L2k4uBGuMDQ
-
 ---
 
 "Alka Seltzer Lobby"

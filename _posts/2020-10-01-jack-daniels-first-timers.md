@@ -1,7 +1,6 @@
 ---
 
 
-
 title: Jack Daniel's First Timers
 categories:
 - social
@@ -10,7 +9,6 @@ categories:
 - work
 - tv commercial
 youtube_id: jp4S8DT_JBA
-
 ---
 "Jack Daniel's First Timers"
 
