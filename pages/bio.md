@@ -1,5 +1,5 @@
 ---
-permalink: /biog/
+permalink: /bio/
 title: "bio"
 ---
 
