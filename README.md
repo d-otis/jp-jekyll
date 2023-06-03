@@ -4,5 +4,5 @@ Ported from WordPress
 
 ## Todo
 
-- [ ] defaults for layouts to use if not specified in front matter => typing fatigue
-- [ ] fix oldschool-blue link color
+- [ ] YAML linter in a pre-commit hook?
+- [ ] page layout default
