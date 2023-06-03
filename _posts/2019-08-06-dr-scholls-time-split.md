@@ -3,7 +3,7 @@ status: publish
 published: true
 title: DR. SCHOLL'S
 youtube_id: btstCjtzOoY
-has_youtube_thumbnail: true
+
 categories:
 - broadcast
 - video
