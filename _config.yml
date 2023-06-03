@@ -39,6 +39,7 @@ defaults:
       type: posts
     values: 
       layout: post
+      has_youtube_thumbnail: true
   - scope:
       path: ""
       type: pages

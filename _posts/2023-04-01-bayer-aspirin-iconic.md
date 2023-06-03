@@ -9,7 +9,7 @@ categories:
 - work
 - tv commercial
 youtube_id: Pn8ZC4p5tdE
-has_youtube_thumbnail: true
+
 ---
 "Bayer Aspirin Iconic"
 

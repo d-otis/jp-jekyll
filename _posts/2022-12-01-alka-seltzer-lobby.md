@@ -10,7 +10,7 @@ categories:
 - tv commercial
 - broadcast
 youtube_id: L2k4uBGuMDQ
-has_youtube_thumbnail: true
+
 ---
 
 "Alka Seltzer Lobby"

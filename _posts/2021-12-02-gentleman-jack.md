@@ -8,7 +8,7 @@ categories:
   - work
   - tv commercial
 youtube_id: _5Bgxy9dCZw
-has_youtube_thumbnail: true
+
 ---
 
 &ldquo;Milestones&rdquo;

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: ZIPLOC
 youtube_id: 3KteNeCH1no
-has_youtube_thumbnail: true
+
 categories:
 - broadcast
 - video

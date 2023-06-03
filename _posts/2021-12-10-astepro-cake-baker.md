@@ -1,6 +1,6 @@
 ---
 youtube_id: lvz07i2EeRI
-has_youtube_thumbnail: true
+
 title: AstePro Cake Baker
 status: publish
 published: true

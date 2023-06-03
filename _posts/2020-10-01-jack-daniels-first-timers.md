@@ -10,7 +10,7 @@ categories:
 - work
 - tv commercial
 youtube_id: jp4S8DT_JBA
-has_youtube_thumbnail: true
+
 ---
 "Jack Daniel's First Timers"
 
