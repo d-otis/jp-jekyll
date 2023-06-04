@@ -7,7 +7,7 @@
   <meta property="og:image" content="{{ yt_url }}" />
   <link rel="image_src" href="{{ yt_url }}">
 {% else %}
-  {% assign image_path = site.url | append: site.baseurl | append: "/images/" %}
+  {% assign image_path = site.url | append: "/images/" %}
   {% assign jpw_fallback_img = "jpw-on-location.jpg" %}
   {% assign image_url = image_path | append: jpw_fallback_img %}
 
