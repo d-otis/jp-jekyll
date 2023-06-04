@@ -14,3 +14,9 @@
 - href: "http://instagram.com/{{ site.instagram_username }}"
   label: <i class="fab fa-instagram"></i>
   target: _blank
+  extra_classes: py-1
+
+- href: "https://www.linkedin.com/in/{{ site.linkedin_username }}"
+  label: <i class="fab fa-linkedin"></i>
+  target: _blank
+  extra_classes: py-0
