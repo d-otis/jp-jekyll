@@ -1,4 +1,4 @@
-<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+<a href="{{ site.url }}{{ post.url }}">
   <article class="card bg-dark text-white mb-5 post">
   {% include post_thumbnail.md %}
     <div class="card-img-overlay">

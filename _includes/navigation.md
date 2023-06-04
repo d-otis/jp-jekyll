@@ -1,18 +1,18 @@
 <div class="col-sm-3">
   <a 
     id="logo" 
-    href="{{ site.url }}{{ site.baseurl }}/" 
+    href="{{ site.url }}/" 
     class="pl-auto"
   >
     <img 
       class="mt-5 mb-2 w-100" 
-      src="{{ site.url }}{{ site.baseurl }}/images/JPW_block_v4.png"
+      src="{{ site.url }}/images/JPW_block_v4.png"
       alt=""
     >
   </a>
   <nav class="navbar navbar-expand-sm navbar-dark bg-transparent sticky-top">
     <a 
-      href="{{ site.url }}{{ site.baseurl }}/" 
+      href="{{ site.url }}/" 
       class="navbar-brand" >
       John Paul Ward 
       <p class="description align-middle ml-2" >
