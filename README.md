@@ -1,6 +1,8 @@
 # John Paul Ward | Producer Reel
+## Description
+WordPress port into [Jekyll](https://jekyllrb.com/). The decision was made because WordPress was just too much for such a low functionality site that was needed. Not to mention much cheaper since all that's paid for is the domain name.
 
-## Instructions
+## Instructions for Adding New Posts
 1. Create new `.md` file in `_posts` folder as `YYYY-MM-DD-title.md`
 2. Set YAML front matter + content in the file
 
