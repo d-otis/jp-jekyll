@@ -1,0 +1,12 @@
+- href: /
+  label: work
+
+- href: /categories/fun
+  label: fun
+
+- href: /bio
+  label: bio
+
+- href: "mailto:{{ site.email | encode_email }}"
+  label: contact
+  target: _blank

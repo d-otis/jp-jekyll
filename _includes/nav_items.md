@@ -1,4 +1,4 @@
-{% for link in site.data.links %}
+{% for link in site.data.menu_links %}
   <li class="menu-item nav-item">
     <a 
       href="{{ link.href | flatify }}" 
