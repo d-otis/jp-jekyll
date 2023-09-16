@@ -1,5 +1,5 @@
 - href: "http://instagram.com/{{ site.instagram_username }}"
-  label: <i class="fab fa-instagram"></i>
+  label: <i class="fab fa-instagram mr-2"></i>
 
 - href: "https://www.linkedin.com/in/{{ site.linkedin_username }}"
   label: <i class="fab fa-linkedin"></i>
