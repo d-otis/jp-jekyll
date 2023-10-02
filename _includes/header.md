@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
   <head>
-      {% seo %}
+    {% include google_tag.html %}
+    {% seo %}
     {% include seo-image-hack.md %}
     {% include favicon.md %}
     <meta charset="utf-8">
