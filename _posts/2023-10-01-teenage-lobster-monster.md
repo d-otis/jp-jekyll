@@ -9,4 +9,4 @@ I WAS A TEENAGE LOBSTER MONSTER!
 
 Director: John Paul Ward
 
-I WAS A TEENAGE LOBSTER MONSTER! was created for a 1950's horror movie trailer contest at The Massacre film festival in Chicago.
+🏆 This trailer won top prize for the "1950's Horror Movie Trailer Contest (2023)" at [The Massacre](https://www.facebook.com/terrorintheaisles) film festival in Chicago.
