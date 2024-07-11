@@ -30,13 +30,11 @@ text_contents = "---
 title: #{options[:title]}
 youtube_id: <video-id-from-YT-url>
 categories:
-    - <category>
     - work # if you want it to show on the main page
-    - <etc>
     # mind the defaults below
-    - published: true
-    - has_youtube_thumbnail: true
-    - layout: <post-for-_posts-dir || page-for-pages-dir>
+    # - published: true
+    # - has_youtube_thumbnail: true
+    # - layout: <post-for-_posts-dir || page-for-pages-dir>
 ---
 
 #{title}
