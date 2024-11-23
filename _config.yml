@@ -46,7 +46,6 @@ defaults:
       layout: post
       has_youtube_thumbnail: true
       published: true
-      vertical: false
   - scope:
       path: ""
       type: pages
