@@ -4,6 +4,8 @@ youtube_id: https://www.youtube.com/shorts/2GarHfUnUa0
 published: false
 categories:
   - work
+  - social
+  - video
 ---
 
 Best Employee
