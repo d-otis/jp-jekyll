@@ -25,11 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   John Paul Ward is a Commercial Producer at ENERGY BBDO in Chicago, IL. 
   He joined BBDO in 2015 as a Production Coordinator. 
   Since joining BBDO he’s produced campaigns for 
-  Jack Daniels, Alka Seltzer, HP, Lenscrafters, Ziploc and Dr Scholl’s. 
+  Jack Daniels, Alka Seltzer, HP, Lenscrafters, Ziploc and Dr Scholl’s.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.johnpaulward.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username: jekyll
+
 instagram_username: thisisnotjohnpaul
 linkedin_username: john-paul-ward-71811bbb
 author: John Paul Ward
@@ -43,7 +42,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values: 
+    values:
       layout: post
       has_youtube_thumbnail: true
       published: true
@@ -52,18 +51,16 @@ defaults:
       type: pages
     values:
       layout: page
-      
 
 jekyll-archives:
   enabled:
     - categories
-  layouts: 
+  layouts:
     category: category-archive
   permalinks:
-    category: '/categories/:name/'
+    category: "/categories/:name/"
 
 # Build settings
-# theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-email-protect

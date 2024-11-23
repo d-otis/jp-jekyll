@@ -1,9 +1,13 @@
 ---
 title: The General
-youtube_id: https://www.youtube.com/shorts/2GarHfUnUa0
-published: false
+youtube_id: 2GarHfUnUa0
+has_youtube_thumbnail: false
+custom_thumbnail: the-general
 categories:
   - work
+  - social
+  - video
+  - OLV
 ---
 
 Best Employee
