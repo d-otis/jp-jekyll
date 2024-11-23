@@ -7,10 +7,6 @@ options = {}
 OptionParser.new do |opts|
   opts.banner = "Usage: bin/post [date] [title]"
 
-  opts.on("-r", "--require LIBRARY", "Require the LIBRARY before executing your script") do |lib|
-    puts "You required #{lib}!"
-  end
-
   opts.on("-dDATE", "--date=DATE", "Specify date in YYYY-MM-DD format") do |v|
     options[:date] = v
   end
