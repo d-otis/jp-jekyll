@@ -7,7 +7,6 @@ categories:
   - broadcast
   - social
 youtube_id: uSqLWKODlIA
-has_youtube_thumbnail: true
 ---
 
 "AstePro Tuba"
