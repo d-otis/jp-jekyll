@@ -1,7 +1,9 @@
 ---
 title: The General
 youtube_id: https://www.youtube.com/shorts/2GarHfUnUa0
-published: false
+has_youtube_thumbnail: false
+custom_thumbnail: the-general
+# published: false
 categories:
   - work
   - social
