@@ -9,8 +9,6 @@ categories:
 youtube_id: r_s-ZGECX0k
 has_youtube_thumbnail: false
 custom_thumbnail: alka-seltzer-elliots-comeback
-# below is for SEO gem
-image: /custom_thumbnails/alka-seltzer-elliots-comeback.jpg
 ---
 
 "Elliot's Comeback"

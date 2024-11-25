@@ -4,7 +4,6 @@ categories:
   - fun
   - video
 title: "Gremlins Mega Madness"
-# date: 2022-03-06 11:13:14 -0500
 categories: fun video
 youtube_id: Hf3WAdNHFRU
 has_youtube_thumbnail: false
