@@ -1,6 +1,6 @@
 ---
 youtube_id: lvz07i2EeRI
-title: AstePro Cake Baker
+title: AstePro - Cake Baker
 categories:
   - social
   - video
@@ -8,7 +8,8 @@ categories:
   - tv commercial
   - broadcast
 ---
-"AstePro Cake Baker"
+
+"Cake Baker"
 
 Director: Timothy Kendall
 

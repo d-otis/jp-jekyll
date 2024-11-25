@@ -1,5 +1,5 @@
 ---
-title: Alka Seltzer Lobby
+title: Alka Seltzer - Lobby
 categories:
   - social
   - video
@@ -9,7 +9,7 @@ categories:
 youtube_id: L2k4uBGuMDQ
 ---
 
-"Alka Seltzer Lobby"
+"Lobby"
 
 Director: Agus Berruezo
 

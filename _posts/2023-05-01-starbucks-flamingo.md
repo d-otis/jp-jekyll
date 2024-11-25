@@ -1,5 +1,5 @@
 ---
-title: Starbucks Flamingo
+title: Starbucks
 categories:
   - social
   - video
@@ -7,7 +7,7 @@ categories:
 youtube_id: t9I5E7r_ueM
 ---
 
-"Starbucks Flamingo"
+"Flamingo"
 
 Production: ODD
 

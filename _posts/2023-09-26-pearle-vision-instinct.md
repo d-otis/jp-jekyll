@@ -1,13 +1,13 @@
 ---
-title: Pearle Vision - Instinct
+title: Pearle Vision
 youtube_id: Vi5EbT_4a-c
 has_youtube_thumbnail: false
 custom_thumbnail: pearle-vision-instinct
 categories:
-    - work # if you want it to show up on the main page
+  - work # if you want it to show up on the main page
 ---
 
-Pearle Vision - Instinct
+"Instinct"
 
 Director: Karien Cherry
 

@@ -1,5 +1,5 @@
 ---
-title: Jack Daniel's First Timers
+title: Jack Daniel's
 categories:
   - social
   - broadcast
@@ -8,7 +8,8 @@ categories:
   - tv commercial
 youtube_id: jp4S8DT_JBA
 ---
-"Jack Daniel's First Timers"
+
+"First Timers"
 
 Director: Ian Pon Jewell
 

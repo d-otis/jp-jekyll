@@ -1,5 +1,5 @@
 ---
-title: US Cellular Walked Right In
+title: US Cellular - Walked Right In
 youtube_id: IBBmkCvoISk
 categories:
   - social
@@ -8,7 +8,8 @@ categories:
   - tv commercial
   - broadcast
 ---
-"US Cellular Walked Right In"
+
+"Walked Right In"
 
 Director: Max Sherman
 

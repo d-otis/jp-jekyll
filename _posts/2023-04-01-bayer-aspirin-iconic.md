@@ -1,5 +1,5 @@
 ---
-title: Bayer Aspirin Iconic
+title: Bayer Aspirin - Iconic
 categories:
   - social
   - video
@@ -7,7 +7,8 @@ categories:
   - tv commercial
 youtube_id: Pn8ZC4p5tdE
 ---
-"Bayer Aspirin Iconic"
+
+"Iconic"
 
 Director: Conor O'Neill
 

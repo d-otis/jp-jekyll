@@ -1,5 +1,5 @@
 ---
-title: US Cellular Buying in Bulk
+title: US Cellular - Buying in Bulk
 youtube_id: GSmTRB_43W4
 categories:
   - social
@@ -8,7 +8,8 @@ categories:
   - tv commercial
   - broadcast
 ---
-"US Cellular Buying in Bulk"
+
+"Buying in Bulk"
 
 Director: Max Sherman
 

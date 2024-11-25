@@ -1,5 +1,5 @@
 ---
-title: ZIPLOC
+title: Ziploc - Thanos
 youtube_id: eONGeiPY7pE
 categories:
   - broadcast
@@ -7,6 +7,7 @@ categories:
   - work
   - tv commercial
 ---
+
 "Thanos"
 
 Director: Lucas Shannon
@@ -14,4 +15,3 @@ Director: Lucas Shannon
 Production: Landia
 
 2019
-

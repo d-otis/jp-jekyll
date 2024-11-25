@@ -1,5 +1,5 @@
 ---
-title: Alka Seltzer Elliot's Comeback
+title: Alka Seltzer - Elliot's Comeback
 categories:
   - social
   - video
@@ -12,7 +12,8 @@ custom_thumbnail: alka-seltzer-elliots-comeback
 # below is for SEO gem
 image: /custom_thumbnails/alka-seltzer-elliots-comeback.jpg
 ---
-"Alka Seltzer Elliot's Comeback"
+
+"Elliot's Comeback"
 
 Director: Agus Berruezo
 
