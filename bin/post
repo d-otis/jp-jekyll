@@ -1,0 +1,48 @@
+#!/usr/bin/env ruby
+
+require "optparse"
+
+options = {}
+
+OptionParser.new do |opts|
+  opts.banner = "Usage: bin/post [date] [title]"
+
+  opts.on("-dDATE", "--date=DATE", "Specify date in YYYY-MM-DD format") do |v|
+    options[:date] = v
+  end
+
+  opts.on("-tTITLE", "--title=TITLE", "Specify the Title as it will appear in the URL") do |v|
+    options[:title] = v
+  end
+end.parse!
+
+date = options[:date]
+year = date[0..3]
+title = options[:title]
+title_for_filename = title.gsub(" ", "-").downcase()
+filename = "_posts/#{date}-#{title_for_filename}.md"
+
+text_contents = "---
+title: #{options[:title]}
+youtube_id: <video-id-from-YT-url>
+categories:
+    - work # if you want it to show on the main page
+    # mind the defaults below
+    # - published: true
+    # - has_youtube_thumbnail: true
+    # - layout: <post-for-_posts-dir || page-for-pages-dir>
+---
+
+#{title}
+
+Director: <director>
+
+Production: <production-company>
+
+#{year}
+"
+
+file = File.open(filename, "w")
+file.write(text_contents)
+file.close
+
