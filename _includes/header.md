@@ -3,7 +3,6 @@
   <head>
     {% include google_tag.html %}
     {% seo %}
-    {% include seo-image-hack.md %}
     {% include favicon.md %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
